@@ -1,0 +1,49 @@
+/* src/App.css */
+@keyframes move {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 100% 100%;
+  }
+
+  }
+
+  
+
+.body1 {
+  /* background: #eee; */
+  
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.body2{
+  width: 100%;
+  height: auto;
+}
+
+.swiper {
+  width: 100%;
+  /* padding-top: 50px;
+  padding-bottom: 50px; */
+  
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 150px;
+}
+
+.swiper-slide img {
+  width: 100%;
+}
+
+
+  
+  
